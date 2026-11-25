@@ -272,4 +272,17 @@ Appointment records persist across backend restarts. Doctor availability, howeve
 
 **MediVoice AI** — Voice-based AI receptionist prototype.
 
+---
+
+## **Output**
+
+<img width="1340" height="611" alt="image" src="https://github.com/user-attachments/assets/9478316d-8f6a-4789-a2bd-900d5acb3437" />
+<img width="1298" height="619" alt="image" src="https://github.com/user-attachments/assets/52e47412-f1eb-45a5-8bbb-fca44eb410a4" />
+<img width="1326" height="559" alt="image" src="https://github.com/user-attachments/assets/4159e17e-3e29-4684-a59f-d8ce25c611e8" />
+
+
+
+
+
+
 
